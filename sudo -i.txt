@@ -1,0 +1,10 @@
+sudo -i
+pwd
+cd /
+
+apt-get install nginx -y
+apt-get update
+ls
+cd var
+ls
+cd 
